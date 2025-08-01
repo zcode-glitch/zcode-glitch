@@ -3,7 +3,7 @@
 ![ZCODE](image/github-header-image.png)
 
 # My Github Profile
-A passionate Backend Developer and AI Enthusiast from Indonesia.
+Beginner Programming And AI From Indonesi
 
 ### 💡 About Me
 - 🔭 I’m currently working on personal and Bussines
